@@ -6,7 +6,7 @@ const greeting = {
   /* Your Summary And Greeting Section */
   title: "Hey there. I'm Michael 'Logan' Foy",
   subTitle:
-  "A passionate Full Stack Software Developer 🚀 with experience building Web and Mobile applications with JavaScript / Angular / Nodejs / React Native and some other cool libraries and frameworks",
+    "A passionate Full Stack Software Developer 🚀 with experience building Web and Mobile applications with JavaScript / Angular / Nodejs / React Native and some other cool libraries and frameworks",
   resumeLink: "https://www.linkedin.com/in/michaelloganfoy/"
 };
 
@@ -24,7 +24,7 @@ const socialMediaLinks = {
 // Your Skills Section
 
 const skillsSection = {
-  title: "What i do",
+  title: "What I do",
   subTitle: "CRAZY FULL STACK DEVELOPER WHO WANT TO EXPLORE EVERY TECH STACK",
   skills: [
     "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications",
@@ -61,8 +61,8 @@ const skillsSection = {
       fontAwesomeClassname: "fab fa-node"
     },
     {
-      skillName: "swift",
-      fontAwesomeClassname: "fab fa-swift"
+      skillName: "github",
+      fontAwesomeClassname: "fab fa-github"
     },
     {
       skillName: "npm",
@@ -77,6 +77,14 @@ const skillsSection = {
       fontAwesomeClassname: "fab fa-aws"
     },
     {
+      skillName: "mongodb",
+      fontAwesomeClassname: "fab fa-mdb"
+    },
+    {
+      skillName: "bootstrap",
+      fontAwesomeClassname: "fab fa-bootstrap"
+    },
+    {
       skillName: "firebase",
       fontAwesomeClassname: "fas fa-fire"
     },
@@ -85,8 +93,12 @@ const skillsSection = {
       fontAwesomeClassname: "fab fa-python"
     },
     {
-      skillName: "docker",
-      fontAwesomeClassname: "fab fa-docker"
+      skillName: "php",
+      fontAwesomeClassname: "fab fa-php"
+    },
+    {
+      skillName: "angular",
+      fontAwesomeClassname: "fab fa-angular"
     }
   ]
 };
@@ -106,7 +118,7 @@ const techStack = {
     },
     {
       Stack: "Programming",
-      progressPercentage: "60%"
+      progressPercentage: "80%"
     }
   ]
 };
@@ -123,8 +135,8 @@ const openSource = {
 // Some Big Projects You have worked with your company
 
 const bigProjects = {
-  title: "Big Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELP TO CREATE THEIR TECH",
+  title: "Projects",
+  subtitle: "SOME WEBSITES AND APPS I'VE CREATED",
   projects: [
     {
       image: "https://drive.google.com/uc?id=1exWn9T6j8TsfDDHJnS3VR66eP6RiGAfY",
@@ -142,7 +154,7 @@ const bigProjects = {
 const achievementSection = {
 
   title: "Achievements And Certifications 🏆 ",
-  subtitle: "Achievements, Certifications Award Letters and Some Cool Stuff that i have done !",
+  subtitle: "SOME PROGRAMMING COURSES I'VE COMPLETED",
 
   achivementsCards: [
     {
@@ -180,20 +192,20 @@ const achievementSection = {
 const blogSection = {
 
   title: "Blogs",
-  subtitle: "With Love for Developing cool stuff. i love to write and teach others what i have learned",
+  subtitle: "I LOVE TO WRITE AND TEACH OTHERS WHAT I'VE LEARNED ALONG THE WAY IN MY DEVELOPMENT JOURNEY",
 
   blogs: [
     {
-      url: "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
-      image: "https://miro.medium.com/max/400/1*pYHONrA_3QM4dgtBSKrYWQ.jpeg",
-      title: "Win a Google Assistant Tshirt and $200 in Google Cloud Credits",
-      description: "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min."
+      url: "https://medium.com/@loganblack0/free-learning-resources-for-programmers-during-the-covid-19-pandemic-2c41daa42cfb",
+      image: "https://miro.medium.com/max/1400/1*nXEUPODhLbjuLtXkAxYmNA.jpeg",
+      title: "FREE PREMIUM learning resources for programmers during the COVID-19 pandemic",
+      description: "A LIST I PUT TOGETHER OF THE BEST PREMIUM RESOURCES THAT HAVE BECOME FREE DURING THE COVID-19 PANDEMIC"
     },
     {
-      url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
-      image: "https://miro.medium.com/max/1280/1*o08b2PW-1PVs94riZuhNMA.png",
-      title: "Why REACT Is The Best?",
-      description: "React is a JavaScript library for building the user interface. It is maintained by Facebook and a community of individual developers and companies."
+      url: "https://medium.com/@loganblack0/how-to-get-a-job-in-the-tech-industry-without-ever-leaving-your-house-6ed2586b888a",
+      image: "https://www.developersengin.com/wp-content/uploads/2018/08/10-Tips-for-Entry-Level-Remote-Programming-Jobs.png",
+      title: "How to get a job in the tech industry without ever leaving your house",
+      description: "Want to make a career pivot into a field that’s future proof, in which you pay nothing until you land a job in the industry? Join a reputable coding boot camp that shows their proven track record of high job placement outcomes for their cohorts."
     }
   ]
 };
@@ -220,7 +232,7 @@ const talkSection = {
 
 const podcastSection = {
   title: "Podcast 🎙️",
-  subtitle: "I LOVE TO TALK ABOUT MYSELF AND TECHNOLOGY",
+  subtitle: "I LOVE TO TALK ABOUT WEB DEVELOPMENT AND TECHNOLOGY",
 
   // Please Provide with Your Podcast embeded Link
   podcast: ["https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo"]
@@ -228,16 +240,16 @@ const podcastSection = {
 
 const contactInfo = {
   title: "Contact Me ☎️",
-  subtitle: "Discuss a project or just want to say hi my inbox is open for all",
-  number: "+92-3243454077",
-  email_address: "saadpasta70@gmail.com"
+  subtitle: "To discuss a project or a job offer, or you if just want to say hi my inbox is open for all",
+  number: "(714) 202 - 6331",
+  email_address: "michaelfoy870@gmail.com"
 };
 
 //Twitter Section
 
 const twitterDetails = {
 
-  userName: "twitter"//Replace "twitter" with your twitter username without @
+  userName: "FullStackLogan"//Replace "twitter" with your twitter username without @
 
 };
 export { greeting, socialMediaLinks, skillsSection, techStack, openSource, bigProjects, achievementSection, blogSection, talkSection, podcastSection, contactInfo, twitterDetails };
