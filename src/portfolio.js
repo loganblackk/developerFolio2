@@ -231,11 +231,11 @@ const talkSection = {
 // Podcast Section
 
 const podcastSection = {
-  title: "Podcast 🎙️",
-  subtitle: "I LOVE TO TALK ABOUT WEB DEVELOPMENT AND TECHNOLOGY",
+  title: "Full-Stack Devs 🎙️",
+  subtitle: "I give out tips & strategies and talk about getting into programming",
 
   // Please Provide with Your Podcast embeded Link
-  podcast: ["https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo"]
+  podcast: ["https://anchor.fm/logan-black7/embed/episodes/Trailer-for-Logans-Intro-To-Web-Development-Podcast-ecpuf8/a-a1ui48l"]
 };
 
 const contactInfo = {
