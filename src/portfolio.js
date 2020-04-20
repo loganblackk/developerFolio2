@@ -231,8 +231,8 @@ const talkSection = {
 // Podcast Section
 
 const podcastSection = {
-  title: "Full-Stack Devs 🎙️",
-  subtitle: "I give out tips & strategies and talk about getting into programming",
+  title: "Podcast 🎙️",
+  subtitle: "I GIVE OUT TIPS & STRATEGIES & HOW TO GET INTO PROGRAMMING",
 
   // Please Provide with Your Podcast embeded Link
   podcast: ["https://anchor.fm/logan-black7/embed/episodes/Trailer-for-Logans-Intro-To-Web-Development-Podcast-ecpuf8/a-a1ui48l"]
