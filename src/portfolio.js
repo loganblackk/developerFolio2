@@ -7,7 +7,7 @@ const greeting = {
   title: "Hey there. I'm Michael 'Logan' Foy",
   subTitle:
     "A passionate Full Stack Software Developer 🚀 with experience building Web and Mobile applications with JavaScript / Angular / Nodejs / React Native and some other cool libraries and frameworks",
-  resumeLink: "https://www.linkedin.com/in/michaelloganfoy/"
+  resumeLink: "https://onedrive.live.com/view.aspx?resid=C3BFA7BB3FF36D8D!203&ithint=file%2cdocx&authkey=!AAMadAka5faDouc"
 };
 
 // Your Social Media Link
@@ -25,7 +25,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANT TO EXPLORE EVERY TECH STACK",
+  subTitle: "I'M A PASSIONATE FULL STACK DEVELOPER THAT LIKES TO CONSTANTLY LEARN NEW LANGUAGES/FRAMEWORKS/LIBRARIES TO BE ABLE TO CREATIVELY EXPRESS MYSELF AND APPLY NEW INNOVATIVE IDEAS",
   skills: [
     "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications",
     "⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks",
