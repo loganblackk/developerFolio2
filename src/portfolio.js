@@ -5,8 +5,7 @@
 const greeting = {
   /* Your Summary And Greeting Section */
   title: "Hey there. I'm Michael 'Logan' Foy",
-  subTitle:
-    "A passionate Full Stack Software Developer 🚀 with experience building Web and Mobile applications with JavaScript / Angular / Nodejs / React Native and some other cool libraries and frameworks",
+  subTitle: "A results-oriented, passionate Full Stack Web Developer 🚀 that thrives on crafting innovative and impactful web-based and mobile UI user experiences. I have unparalleled self-learning habits and a determination to constantly learn and grow to be open to new ideas, tools, frameworks, and languages to come up with creative solutions to fit any particular problem",
   resumeLink: "https://onedrive.live.com/view.aspx?resid=C3BFA7BB3FF36D8D!203&ithint=file%2cdocx&authkey=!AAMadAka5faDouc"
 };
 
