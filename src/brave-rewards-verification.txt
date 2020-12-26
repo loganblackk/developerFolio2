@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: fullstacklogan.tk
+Token: a912d303449ec90a02e6ce03dd981cebb326297ea3c2fbc48d9a820232d070ee
