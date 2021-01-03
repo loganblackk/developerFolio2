@@ -1,5 +1,19 @@
 ﻿/* Change this file to get your personal Portfolio */
 
+//adfly links
+<script type="text/javascript">
+    var adfly_id = 24553265;
+    var adfly_advert = 'int';
+    var frequency_cap = 5;
+    var frequency_delay = 5;
+    var init_delay = 3;
+    var popunder = true;
+</script>
+<script src="https://cdn.adf.ly/js/entry.js"></script>
+
+
+
+
 // Your Summary And Greeting Section
 
 const greeting = {
